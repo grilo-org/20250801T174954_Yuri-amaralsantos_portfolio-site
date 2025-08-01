@@ -1,0 +1,35 @@
+[
+  {
+    "title": "BlogVue",
+    "description": "Um blog de tecnologia moderno e responsivo. Foi desenvolvovido utilizando vue.js.",
+    "image": "/projects/fotoSite2.png",
+    "demo": "https://blog-vue-git-main-yuri-santoss-projects.vercel.app",
+    "github": "https://github.com/Yuri-amaralsantos/blogVue"
+  },
+  {
+    "title": "Site de avaliação de livros",
+    "description": "Um site de avaliação de livros com Asp.net/C# (backend), React (frontend) e PostgreSQL.",
+    "image": "/projects/site5.png",
+    "github": "https://github.com/Yuri-amaralsantos/bookRatingNetCore"
+  },
+  {
+    "title": "Portal Abrams",
+    "description": "Um portal educacional da ong Instituto Abrams com cursos, questões e jogos. Foi desenvolvovido utilizando react e supabase.",
+    "image": "/projects/site7.png",
+    "demo": "https://portalabrams.vercel.app/home",
+    "github": "https://github.com/Yuri-amaralsantos/portalEducOng"
+  },
+  {
+    "title": "Learn Notes",
+    "description": "Um aplicativo web desenvolvido em React que permite criar e organizar suas anotações de forma prática.",
+    "image": "/projects/site2.png",
+    "demo": "https://wiki-study-app-polo.vercel.app",
+    "github": "https://github.com/Yuri-amaralsantos/wikiStudyApp"
+  },
+  {
+    "title": "Chat em Tempo Real",
+    "description": "Um aplicativo de chat em tempo real, com autenticação JWT, WebSockets (Socket.io) e PostgreSQL.",
+    "image": "/projects/site3.png",
+    "github": "https://github.com/Yuri-amaralsantos/javascriptChatApp"
+  }
+]
